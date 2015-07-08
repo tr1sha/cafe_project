@@ -36,7 +36,7 @@ float: right; position:relative; top:5px
 
 /***BODY**/
 #aboutpg{
-background-image:url("/img/flowers1.jpg"); 
+background-image:url("../img/flowers1.jpg"); 
 }
 
 /**About Page**/
